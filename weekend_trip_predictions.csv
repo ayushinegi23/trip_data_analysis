@@ -1,0 +1,113 @@
+region_africa,region_asia,region_europe,region_middle_east,region_north_america,region_oceania,region_south_america,budget_level,culture,adventure,nature,beaches,nightlife,cuisine,wellness,urban,seclusion,region,city,country,is_weekend_trip,predicted_is_weekend_trip
+False,False,False,False,True,False,False,Mid-range,4,3,4,2,3,4,3,4,3,north_america,Raleigh,United States,True,True
+False,True,False,False,False,False,False,Budget,3,4,5,5,2,3,3,2,5,asia,Palawan,Philippines,False,False
+False,False,False,False,True,False,False,Mid-range,4,4,5,1,3,3,3,4,3,north_america,Calgary,Canada,True,True
+False,False,False,False,False,True,False,Mid-range,3,3,4,4,2,3,3,2,4,oceania,Nukuʻalofa,Tonga,True,True
+False,False,False,False,False,True,False,Luxury,2,5,5,5,2,3,3,1,4,oceania,Great Barrier Reef,Australia,False,False
+False,False,False,False,False,False,True,Mid-range,3,5,5,2,3,4,3,3,4,south_america,Bariloche,Argentina,False,False
+False,False,False,False,False,False,True,Budget,4,3,4,1,3,4,3,3,3,south_america,Arequipa,Peru,True,True
+False,False,True,False,False,False,False,Luxury,4,3,4,1,3,4,4,5,2,europe,Zurich,Switzerland,True,True
+False,True,False,False,False,False,False,Budget,4,3,2,1,3,4,2,3,2,asia,Phnom Penh,Cambodia,True,True
+True,False,False,False,False,False,False,Mid-range,3,3,4,1,2,3,2,3,4,africa,Brazzaville,Republic of the Congo,True,True
+True,False,False,False,False,False,False,Budget,4,3,4,4,3,4,3,3,4,africa,Essaouira,Morocco,True,True
+False,False,True,False,False,False,False,Mid-range,3,2,3,1,3,3,3,4,2,europe,Eindhoven,Netherlands,True,True
+False,False,True,False,False,False,False,Luxury,3,4,5,2,3,3,4,3,4,europe,Reykjavik,Iceland,True,True
+False,True,False,False,False,False,False,Budget,4,5,5,1,1,3,3,1,5,asia,Ladakh,India,False,False
+False,True,False,False,False,False,False,Mid-range,5,3,2,1,5,5,3,5,2,asia,Shanghai,China,False,False
+False,False,False,True,False,False,False,Mid-range,4,3,3,1,3,4,3,4,2,middle_east,Amman,Jordan,True,True
+False,True,False,False,False,False,False,Mid-range,4,4,5,1,3,3,3,4,3,asia,Almaty,Kazakhstan,True,True
+False,True,False,False,False,False,False,Mid-range,5,3,2,3,4,5,3,5,1,asia,Mumbai,India,False,False
+False,True,False,False,False,False,False,Mid-range,3,4,5,4,3,4,3,3,3,asia,Kota Kinabalu,Malaysia,True,False
+False,False,True,False,False,False,False,Mid-range,4,3,4,2,3,4,4,4,3,europe,Helsinki,Finland,True,True
+False,False,True,False,False,False,False,Mid-range,4,2,3,1,4,4,3,4,2,europe,Leipzig,Germany,True,True
+False,False,False,False,True,False,False,Mid-range,4,3,4,2,3,3,3,3,3,north_america,Ottawa,Canada,True,True
+False,True,False,False,False,False,False,Budget,5,3,3,1,3,5,3,4,2,asia,Hanoi,Vietnam,True,True
+False,False,True,False,False,False,False,Budget,5,2,3,1,3,4,3,3,3,europe,Lviv,Ukraine,True,True
+False,False,False,False,True,False,False,Luxury,3,3,3,5,5,4,4,4,2,north_america,Miami,United States,True,True
+False,False,True,False,False,False,False,Luxury,4,4,5,2,3,3,3,3,4,europe,Bergen,Norway,True,True
+False,False,False,False,False,False,True,Mid-range,4,3,3,3,3,4,3,4,3,south_america,Montevideo,Uruguay,True,True
+True,False,False,False,False,False,False,Budget,4,3,4,1,2,4,3,2,4,africa,Chefchaouen,Morocco,True,True
+False,False,False,True,False,False,False,Mid-range,4,3,2,3,4,4,3,4,2,middle_east,Manama,Bahrain,True,True
+False,False,True,False,False,False,False,Budget,4,2,3,1,3,3,3,3,3,europe,Tartu,Estonia,True,True
+False,False,False,False,False,True,False,Mid-range,3,4,4,2,2,3,2,2,3,oceania,Port Moresby,Papua New Guinea,False,True
+False,False,False,True,False,False,False,Luxury,4,3,3,4,3,4,4,5,2,middle_east,Abu Dhabi,United Arab Emirates,False,True
+False,False,True,False,False,False,False,Mid-range,4,3,3,5,4,5,3,3,2,europe,San Sebastián,Spain,True,True
+False,False,True,False,False,False,False,Mid-range,5,2,3,1,4,5,3,4,2,europe,Lyon,France,True,True
+False,False,True,False,False,False,False,Mid-range,4,3,4,4,3,4,3,3,4,europe,Ajaccio,France,True,True
+False,False,False,False,False,True,False,Budget,4,4,5,4,2,3,2,2,4,oceania,Madang,Papua New Guinea,False,True
+False,False,False,False,True,False,False,Mid-range,4,3,4,3,4,4,3,4,2,north_america,Panama City,Panama,True,True
+True,False,False,False,False,False,False,Mid-range,3,3,4,3,3,3,2,3,3,africa,Libreville,Gabon,True,True
+False,True,False,False,False,False,False,Budget,5,3,3,1,3,4,3,3,2,asia,Jaipur,India,True,True
+True,False,False,False,False,False,False,Mid-range,4,4,5,5,3,4,4,2,4,africa,Zanzibar,Tanzania,False,False
+True,False,False,False,False,False,False,Mid-range,3,5,5,2,2,3,3,2,4,africa,Livingstone,Zambia,True,False
+False,False,False,False,False,False,True,Budget,3,3,4,1,3,3,3,3,4,south_america,San Cristobal,Venezuela,True,True
+False,False,False,False,True,False,False,Mid-range,4,3,4,1,4,4,3,4,2,north_america,Monterrey,Mexico,True,True
+False,False,True,False,False,False,False,Mid-range,3,3,4,5,4,4,3,2,3,europe,Zakynthos,Greece,True,True
+False,False,False,False,True,False,False,Mid-range,3,4,5,1,2,3,5,2,4,north_america,Sedona,United States,True,True
+False,False,False,False,False,True,False,Mid-range,3,4,4,3,3,3,3,3,3,oceania,Christchurch,New Zealand,False,True
+False,False,False,False,False,False,True,Mid-range,5,3,2,2,5,5,3,5,2,south_america,Buenos Aires,Argentina,False,False
+False,False,True,False,False,False,False,Mid-range,3,4,5,2,2,3,3,2,4,europe,Bled,Slovenia,True,True
+False,False,False,False,False,False,True,Mid-range,3,5,5,1,2,3,3,2,5,south_america,San Pedro de Atacama,Chile,False,False
+False,True,False,False,False,False,False,Budget,5,2,3,1,2,3,2,3,4,asia,Bukhara,Uzbekistan,True,True
+False,False,False,False,True,False,False,Mid-range,5,3,4,2,3,4,3,3,3,north_america,Québec City,Canada,True,True
+True,False,False,False,False,False,False,Mid-range,4,3,3,1,4,4,3,5,2,africa,Johannesburg,South Africa,False,True
+False,False,False,False,True,False,False,Mid-range,3,4,4,3,3,4,3,3,2,north_america,Belize City,Belize,True,True
+False,True,False,False,False,False,False,Mid-range,4,3,4,2,3,3,2,3,3,asia,Vladivostok,Russia,False,True
+False,False,True,False,False,False,False,Mid-range,5,3,3,2,4,5,3,5,2,europe,Istanbul,Turkey,False,True
+False,False,False,False,False,False,True,Mid-range,3,3,4,3,2,3,2,3,3,south_america,Antofagasta,Chile,True,True
+False,True,False,False,False,False,False,Mid-range,3,4,5,3,2,4,3,3,4,asia,Hualien,Taiwan,True,True
+False,False,True,False,False,False,False,Mid-range,3,4,4,5,3,4,4,3,3,europe,Algarve,Portugal,True,True
+False,True,False,False,False,False,False,Mid-range,5,3,2,1,4,4,3,5,2,asia,Moscow,Russia,False,True
+False,True,False,False,False,False,False,Mid-range,4,3,5,1,2,4,3,3,4,asia,Islamabad,Pakistan,True,True
+False,True,False,False,False,False,False,Budget,5,4,4,1,2,4,3,3,2,asia,Kathmandu,Nepal,False,True
+False,False,False,False,True,False,False,Mid-range,5,3,4,2,3,4,3,4,3,north_america,Quebec City,Canada,True,True
+False,False,True,False,False,False,False,Mid-range,4,2,2,1,4,4,3,4,2,europe,Antwerp,Belgium,True,True
+False,False,False,False,False,True,False,Luxury,3,3,4,4,3,4,3,3,3,oceania,Noumea,New Caledonia,False,False
+False,False,False,False,True,False,False,Luxury,3,3,4,2,3,3,3,4,2,north_america,San Jose,United States,True,True
+False,False,False,False,False,True,False,Mid-range,3,4,5,5,3,3,4,2,4,oceania,Nadi,Fiji,True,True
+False,False,True,False,False,False,False,Mid-range,4,2,3,1,3,4,3,4,2,europe,Birmingham,United Kingdom,True,True
+False,False,False,False,True,False,False,Mid-range,4,3,3,2,3,4,3,3,3,north_america,Savannah,United States,True,True
+False,False,True,False,False,False,False,Mid-range,4,3,4,5,3,3,3,2,4,europe,St Ives,United Kingdom,True,True
+False,False,False,False,True,False,False,Luxury,3,3,4,5,3,4,4,3,2,north_america,Hamilton,Bermuda,True,True
+False,False,True,False,False,False,False,Mid-range,3,4,5,3,2,4,3,2,5,europe,Azores,Portugal,False,False
+False,False,True,False,False,False,False,Mid-range,4,2,3,2,3,4,3,4,3,europe,Tallinn,Estonia,True,True
+False,False,False,True,False,False,False,Mid-range,3,3,5,4,2,3,3,2,4,middle_east,Salalah,Oman,False,True
+True,False,False,False,False,False,False,Budget,4,2,3,3,3,4,3,4,3,africa,Rabat,Morocco,True,True
+False,False,True,False,False,False,False,Luxury,3,4,5,2,3,3,3,3,4,europe,Tromsø,Norway,False,True
+False,True,False,False,False,False,False,Luxury,3,2,2,1,2,3,2,3,4,asia,Ashgabat,Turkmenistan,False,True
+False,False,False,False,True,False,False,Mid-range,4,3,3,4,4,5,3,4,2,north_america,Port of Spain,Trinidad and Tobago,True,True
+False,True,False,False,False,False,False,Mid-range,4,3,4,2,3,4,3,4,3,asia,Sapporo,Japan,False,True
+False,True,False,False,False,False,False,Budget,5,3,2,2,5,5,4,5,1,asia,Bangkok,Thailand,False,False
+True,False,False,False,False,False,False,Budget,3,3,4,4,2,3,2,2,3,africa,Banjul,Gambia,True,True
+False,False,True,False,False,False,False,Mid-range,4,3,3,1,2,4,3,3,3,europe,Guimarães,Portugal,True,True
+False,False,False,False,False,False,True,Mid-range,3,4,4,3,3,4,3,3,4,south_america,Valdivia,Chile,True,True
+False,True,False,False,False,False,False,Mid-range,4,2,3,1,3,4,3,4,2,asia,Ankara,Turkey,False,True
+False,False,True,False,False,False,False,Mid-range,4,5,5,1,3,4,3,3,3,europe,Innsbruck,Austria,True,True
+False,False,False,False,False,False,True,Mid-range,3,4,5,5,4,4,3,4,3,south_america,Florianópolis,Brazil,True,False
+False,False,False,False,True,False,False,Budget,4,3,4,1,3,4,3,2,4,north_america,San Cristóbal de las Casas,Mexico,True,True
+False,False,True,False,False,False,False,Mid-range,3,4,5,5,3,4,4,3,4,europe,Sardinia,Italy,False,False
+False,False,False,False,False,False,True,Mid-range,4,3,3,2,4,4,3,4,2,south_america,Rosario,Argentina,True,True
+False,False,False,False,True,False,False,Mid-range,3,4,4,5,4,4,4,3,3,north_america,Los Cabos,Mexico,True,True
+False,False,False,False,False,True,False,Mid-range,3,4,4,4,2,3,4,2,4,oceania,Lautoka,Fiji,True,True
+False,False,True,False,False,False,False,Budget,5,3,3,1,2,3,2,2,4,europe,Sighisoara,Romania,True,True
+False,False,True,False,False,False,False,Mid-range,5,2,3,1,2,4,3,3,4,europe,Matera,Italy,True,True
+True,False,False,False,False,False,False,Luxury,2,3,5,5,2,4,4,2,5,africa,Seychelles,Seychelles,False,False
+False,False,False,False,False,True,False,Luxury,4,4,5,5,4,4,4,4,2,oceania,Honolulu,United States,False,False
+False,False,False,False,True,False,False,Mid-range,4,3,3,3,3,5,3,3,3,north_america,Charleston,United States,True,True
+False,False,False,False,False,True,False,Luxury,2,4,5,5,2,3,5,1,5,oceania,Bora Bora,French Polynesia,False,False
+False,False,True,False,False,False,False,Mid-range,4,3,3,3,4,5,3,4,3,europe,Porto,Portugal,True,True
+False,False,False,False,True,False,False,Mid-range,4,2,2,1,5,4,3,4,2,north_america,Nashville,United States,True,True
+True,False,False,False,False,False,False,Budget,4,3,3,1,3,4,2,3,2,africa,Yaoundé,Cameroon,True,True
+False,False,False,False,False,True,False,Mid-range,3,4,5,4,2,3,3,2,4,oceania,Bay of Islands,New Zealand,False,False
+False,False,True,False,False,False,False,Mid-range,4,3,3,1,3,4,3,4,2,europe,Zagreb,Croatia,True,True
+False,False,True,False,False,False,False,Mid-range,4,3,3,2,4,4,3,4,3,europe,Riga,Latvia,True,True
+False,False,True,False,False,False,False,Mid-range,5,3,3,2,4,5,3,5,2,europe,Rome,Italy,False,True
+True,False,False,False,False,False,False,Budget,5,3,3,1,2,4,2,3,3,africa,Luxor,Egypt,False,True
+False,False,False,False,False,True,False,Mid-range,3,4,4,3,3,3,3,3,3,oceania,Darwin,Australia,True,True
+False,False,False,False,True,False,False,Mid-range,4,3,3,1,5,5,3,4,2,north_america,Austin,United States,True,True
+False,False,False,False,True,False,False,Mid-range,3,4,3,4,4,4,3,3,2,north_america,Acapulco,Mexico,True,True
+False,False,False,False,False,True,False,Mid-range,3,4,4,4,3,4,3,3,3,oceania,Perth,Australia,False,True
+False,False,True,False,False,False,False,Mid-range,4,3,4,2,3,4,3,3,3,europe,Cork,Ireland,True,True
+False,False,True,False,False,False,False,Budget,3,3,4,2,3,3,3,3,3,europe,Podgorica,Montenegro,True,True
+False,True,False,False,False,False,False,Budget,5,3,4,1,2,4,4,2,5,asia,Luang Prabang,Laos,True,True
+False,False,True,False,False,False,False,Mid-range,5,3,2,1,5,5,3,5,2,europe,Madrid,Spain,True,False
